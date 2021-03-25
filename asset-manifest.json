@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/react-port/static/css/main.0da9992d.chunk.css",
-    "main.js": "/react-port/static/js/main.45532fa6.chunk.js",
-    "main.js.map": "/react-port/static/js/main.45532fa6.chunk.js.map",
+    "main.js": "/react-port/static/js/main.8f8d0db7.chunk.js",
+    "main.js.map": "/react-port/static/js/main.8f8d0db7.chunk.js.map",
     "runtime-main.js": "/react-port/static/js/runtime-main.1992866e.js",
     "runtime-main.js.map": "/react-port/static/js/runtime-main.1992866e.js.map",
     "static/js/2.3599b465.chunk.js": "/react-port/static/js/2.3599b465.chunk.js",
     "static/js/2.3599b465.chunk.js.map": "/react-port/static/js/2.3599b465.chunk.js.map",
     "index.html": "/react-port/index.html",
     "static/css/main.0da9992d.chunk.css.map": "/react-port/static/css/main.0da9992d.chunk.css.map",
-    "static/js/2.3599b465.chunk.js.LICENSE.txt": "/react-port/static/js/2.3599b465.chunk.js.LICENSE.txt"
+    "static/js/2.3599b465.chunk.js.LICENSE.txt": "/react-port/static/js/2.3599b465.chunk.js.LICENSE.txt",
+    "static/media/portfoliopic.bee5267a.jpg": "/react-port/static/media/portfoliopic.bee5267a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1992866e.js",
     "static/js/2.3599b465.chunk.js",
     "static/css/main.0da9992d.chunk.css",
-    "static/js/main.45532fa6.chunk.js"
+    "static/js/main.8f8d0db7.chunk.js"
   ]
 }
