@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/react-port/static/css/main.0da9992d.chunk.css",
-    "main.js": "/react-port/static/js/main.8f8d0db7.chunk.js",
-    "main.js.map": "/react-port/static/js/main.8f8d0db7.chunk.js.map",
+    "main.css": "/react-port/static/css/main.fc18bfe4.chunk.css",
+    "main.js": "/react-port/static/js/main.240c1cd3.chunk.js",
+    "main.js.map": "/react-port/static/js/main.240c1cd3.chunk.js.map",
     "runtime-main.js": "/react-port/static/js/runtime-main.1992866e.js",
     "runtime-main.js.map": "/react-port/static/js/runtime-main.1992866e.js.map",
-    "static/js/2.3599b465.chunk.js": "/react-port/static/js/2.3599b465.chunk.js",
-    "static/js/2.3599b465.chunk.js.map": "/react-port/static/js/2.3599b465.chunk.js.map",
+    "static/js/2.67426666.chunk.js": "/react-port/static/js/2.67426666.chunk.js",
+    "static/js/2.67426666.chunk.js.map": "/react-port/static/js/2.67426666.chunk.js.map",
     "index.html": "/react-port/index.html",
-    "static/css/main.0da9992d.chunk.css.map": "/react-port/static/css/main.0da9992d.chunk.css.map",
-    "static/js/2.3599b465.chunk.js.LICENSE.txt": "/react-port/static/js/2.3599b465.chunk.js.LICENSE.txt",
-    "static/media/portfoliopic.bee5267a.jpg": "/react-port/static/media/portfoliopic.bee5267a.jpg"
+    "static/css/main.fc18bfe4.chunk.css.map": "/react-port/static/css/main.fc18bfe4.chunk.css.map",
+    "static/js/2.67426666.chunk.js.LICENSE.txt": "/react-port/static/js/2.67426666.chunk.js.LICENSE.txt",
+    "static/media/codenames.8d907277.png": "/react-port/static/media/codenames.8d907277.png",
+    "static/media/css.bdc1671d.png": "/react-port/static/media/css.bdc1671d.png",
+    "static/media/fishtanks.ec7440ba.png": "/react-port/static/media/fishtanks.ec7440ba.png",
+    "static/media/joerehfuss.0754f9bf.pdf": "/react-port/static/media/joerehfuss.0754f9bf.pdf",
+    "static/media/manatee-api.fbdf48b4.png": "/react-port/static/media/manatee-api.fbdf48b4.png",
+    "static/media/manatee-npm.b27eb1f3.png": "/react-port/static/media/manatee-npm.b27eb1f3.png",
+    "static/media/portfoliopic.dbb5fb71.jpg": "/react-port/static/media/portfoliopic.dbb5fb71.jpg",
+    "static/media/wedding.6778243d.png": "/react-port/static/media/wedding.6778243d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1992866e.js",
-    "static/js/2.3599b465.chunk.js",
-    "static/css/main.0da9992d.chunk.css",
-    "static/js/main.8f8d0db7.chunk.js"
+    "static/js/2.67426666.chunk.js",
+    "static/css/main.fc18bfe4.chunk.css",
+    "static/js/main.240c1cd3.chunk.js"
   ]
 }
